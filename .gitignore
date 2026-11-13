@@ -12,3 +12,6 @@ coverage.html
 .DS_Store
 .idea/
 .vscode/
+
+# Other
+ratelimiter-url-shortener-instructions.md
